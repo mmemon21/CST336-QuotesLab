@@ -1,0 +1,24 @@
+.footer{
+    color: #095E74;
+}
+
+body{
+    background-color: #D5DF3B;
+}
+
+.col-sm-4{
+    padding-right: 5px;
+}
+
+.row{
+    text-align: center;
+}
+
+.container{
+    font-family: "Times New Roman", Times, serif;
+}
+
+.jumbotron{
+    background-color: #D5DF3B;
+    text-align: center;
+}
